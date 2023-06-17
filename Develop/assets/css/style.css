@@ -40,7 +40,7 @@ body {
 }
 /* Changed class from .div ul to .navbarlist for easier following */
 
-.header div ul li {
+.navitems {
     display: inline-block;
     margin-left: 25px;
 }

@@ -123,23 +123,26 @@ p {
 }
 /* Changed class from .brand-cost to .costmanagement for easier following */
 
-.benefit-lead img {
+.leadgeneration-pic {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Changed class to specifed img classes for easier following */
 
-.benefit-brand img {
+.brandawareness-pic {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Changed class to specifed img classes for easier following */
 
-.benefit-cost img {
+.costmanagement-pic {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Changed class to specifed img classes for easier following */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -168,32 +171,38 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.seo-pic {
     max-height: 200px;
 }
+/* Changed class to specifed img classes for easier following */
 
-.online-reputation-management img {
+.orm-pic {
     max-height: 200px;
 }
+/* Changed class to specifed img classes for easier following */
 
-.social-media-marketing img {
+.smm-pic {
     max-height: 200px;
 }
+/* Changed class to specifed img classes for easier following */
 
-.search-engine-optimization h2 {
+.seo-header {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Changed class to specifed header class for easier following */
 
-.online-reputation-management h2 {
+.orm-header {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Changed class to specifed header class for easier following */
 
-.social-media-marketing h2 {
+.smm-header {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Changed class to specifed header class for easier following */
 
 .footer {
     padding: 30px;
@@ -202,6 +211,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer-heading{
     font-size: 20px;
 }
+/* Changed class for easier semantic following in HTML file */

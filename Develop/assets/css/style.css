@@ -15,26 +15,30 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.horiseon {
     display: inline-block;
     font-size: 48px;
 }
+/* Changed class from .header h1 to .horiseon for easier following */
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
+/* Changed class from .header h1 .seo to just .seo for easier following */
 
-.header div {
+.navbar {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* Changed class from .header div to .navbar for easier reading */
 
-.header div ul {
+.navbarlist {
     list-style-type: none;
 }
+/* Changed class from .div ul to .navbarlist for easier following */
 
 .header div ul li {
     display: inline-block;
@@ -101,20 +105,23 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.leadgeneration {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Changed class from .benfit-lead h3 to .leadgeneration for easier following */
 
-.benefit-brand h3 {
+.brandawareness {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Changed class from .benefit-brand to .brandawareness for easier following */
 
-.benefit-cost h3 {
+.costmanagement {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Changed class from .brand-cost to .costmanagement for easier following */
 
 .benefit-lead img {
     display: block;
